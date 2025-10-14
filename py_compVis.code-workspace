@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"custom-md-pdf.printBackground": true,
+    "custom-md-pdf.headerTemplate": "",
+    "custom-md-pdf.footerTemplate": "",
+    "custom-md-pdf.displayHeaderFooter": false,
+	},
+	"extensions": {
+		"recommendations": [
+        "deadpoulpe.custom-md-pdf"
+    ]
+	}
+}
